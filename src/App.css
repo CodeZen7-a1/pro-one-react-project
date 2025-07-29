@@ -1,5 +1,5 @@
 body{
-  background: radial-gradient(circle at top left, #da8184,  #f4c5b8,#d5a89b);
+  background: radial-gradient(circle at top left, #d2eaea, #a1d3d3, rgb(113, 140, 140));
 
 }
 #root {
@@ -43,4 +43,12 @@ body{
 
 .read-the-docs {
   color: #888;
+}
+.greenBlock{
+  background-color: gray;
+  color:Blue;
+}
+.RedBlock{
+  background-color: #ededa0;
+  color:red;
 }
